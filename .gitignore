@@ -1,0 +1,5 @@
+# IDE / Editor
+.idea
+
+# Vim swap files
+*.swp
